@@ -13,9 +13,9 @@
 
 1세대는 앱 설치 권한을 허용해야 합니다. (LG 폴더 2 또는 2s는 안 해도 됩니다)
 
-아래 링크 눌러서 튜토리얼 참고하세요.
+**앱 설치 권한 허용:** [(링크 바로가기)](https://blog.naver.com/saucecompany_/221925422843)
 
-[![0011](https://github.com/Dr-Sauce/ActivityLauncher/assets/82555878/36845a20-0c22-4c46-8c49-a40011052228)](https://blog.naver.com/saucecompany_/221925422843)
+![0011](https://github.com/Dr-Sauce/ActivityLauncher/assets/82555878/727c3b61-a020-45b3-89b7-7973808ce962)
 
 2. Activity Launcher 다운로드
 
