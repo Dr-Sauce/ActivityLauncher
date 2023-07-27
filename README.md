@@ -1,24 +1,37 @@
-[![Debug Build](https://github.com/butzist/ActivityLauncher/actions/workflows/android-master.yml/badge.svg)](https://github.com/butzist/ActivityLauncher/actions/workflows/android-master.yml)
-[![Release Build](https://github.com/butzist/ActivityLauncher/actions/workflows/android-release.yml/badge.svg)](https://github.com/butzist/ActivityLauncher/actions/workflows/android-release.yml)
-[![Crowdin](https://badges.crowdin.net/activitylauncher/localized.svg)](https://crowdin.com/project/activitylauncher)
-[![Gitter Chat](https://badges.gitter.im/ActivityLauncher/community.svg)](https://gitter.im/ActivityLauncher/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Activity Launcher
 
-Activity Launcher
-=================
+안드로이드에 숨은 액티비티 실행하기
 
-Create shortcuts for any installed app and even hidden activities to launch them with ease.
+(LG 폴더에 바로 설치할 수 있도록 변조하였습니다)
 
-<a href="https://f-droid.org/packages/de.szalkowski.activitylauncher/" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80"/></a>
-<a href="https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher" target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80"/></a>
+![image](https://github.com/Dr-Sauce/ActivityLauncher/assets/82555878/5571322b-8201-462b-a00e-30c5e5316269)
 
-Contributing
-------------
 
-**The project is looking for co-maintainers!** See [here](https://github.com/butzist/ActivityLauncher/issues/51)
+# LG 폴더에 설치하는 방법:
 
-Translations
-------------
+1. 앱 설치 권한 허용
 
-The [Crowdin project](https://crowdin.com/project/ActivityLauncher) contains detailed credits for the translations and allows anyone to contribute by translating the app.
+1세대는 앱 설치 권한을 허용해야 합니다. (LG 폴더 2 또는 2s는 안 해도 됩니다)
+
+아래 링크 눌러서 튜토리얼 참고하세요.
+
+[![0011](https://github.com/Dr-Sauce/ActivityLauncher/assets/82555878/36845a20-0c22-4c46-8c49-a40011052228)](https://blog.naver.com/saucecompany_/221925422843)
+
+2. Activity Launcher 다운로드
+
+LG 폴더 기본 브라우저에 들어갑니다. [Releases](https://github.com/Dr-Sauce/ActivityLauncher/releases/latest) 페이지를 엽니다. (← 링크 누르세요)
+
+**바로 다운로드**를 길게 누르세요. **3.페이지 저장**(3. Save page)을 누르세요.
+
+![Picture1](https://github.com/Dr-Sauce/ActivityLauncher/assets/82555878/63fde9dd-9e0d-4738-abb5-5444a56a7ffa)
+
+3. Activity Launcher 설치
+
+다운로드된 설치 파일을 열어서 앱을 설치합니다.
+![Picture2](https://github.com/Dr-Sauce/ActivityLauncher/assets/82555878/c51d1018-4f1b-4a32-b796-8c79930ac8c7)
+
+4. 끝
+
+이제 실행하면 끝입니다. (런처를 설치하지 않은 경우 홈 화면에서 **5457#*110#**(LG 폴더 2는 5457#*120#) 입력하고 **Installed Application List**에서 실행하세요)
+
+![Picture3](https://github.com/Dr-Sauce/ActivityLauncher/assets/82555878/13648218-a528-48fb-8d81-af6372ff4c78)
