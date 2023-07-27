@@ -19,7 +19,7 @@
 
 2. Activity Launcher 다운로드
 
-LG 폴더 기본 브라우저에 들어갑니다. [Releases](https://github.com/Dr-Sauce/ActivityLauncher/releases/latest) 페이지를 엽니다. (← 링크 누르세요)
+LG 폴더 기본 브라우저에 들어갑니다. [Releases](https://github.com/Dr-Sauce/ActivityLauncher/releases/latest) 페이지를 엽니다.
 
 **바로 다운로드**를 길게 누르세요. **3.페이지 저장**(3. Save page)을 누르세요.
 
